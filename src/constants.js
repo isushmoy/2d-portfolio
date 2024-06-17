@@ -9,9 +9,7 @@ export const dialogueData = {
   bed: `This is where I sleep. Sleep is one of the most fundamental aspect of our life!`,
   resume: `This is my <a href="https://github.com/sushcod3/resume/blob/main/Mahmud_Hossain_Sushmoy_Front-End_Engineer_Resume.pdf" target="_blank">resume.</a>
   Contact me at m.hossain.sushmoy@gmail.com if you have any interesting job opportunities!`,
-  projects: `Info about this portfolio : It's made with the Kaboom.js library which is a library for making games in JavaScript.
-  Text is rendered with HTML/CSS. So the textbox you're currently reading is not rendered within canvas. Learn more about how to use
-  Kaboom.js by watching some of my tutorials <a href="https://youtube.com/@jslegenddev" target="_blank">here</a>.`,
+  projects: `#`,
   library: `There are a lot of books on my shelves. Some of them were read and some of them weren't yet.`,
   exit: `If you want to exit my portfolio, just close the tab.`,
 };
