@@ -2,4 +2,4 @@
 
 Inspired by the 2D portfolio.
 
-Live: https://isushmoy.github.io/2d-portfolio/
+Live: https://moysush.github.io/2d-portfolio/
